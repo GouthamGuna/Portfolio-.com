@@ -300,6 +300,9 @@ img{
 .skills__ux{
   width: 50%;
 }
+.skills__sql{
+  width: 50%;
+}
 .skills__img{
   border-radius: .5rem;
 }
