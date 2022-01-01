@@ -75,6 +75,13 @@ $(document).ready(function() {
 
 });
  /*Scroll to top when arrow up clicked END*/
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
 
 
 
