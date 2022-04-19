@@ -1,6 +1,4 @@
 # Developer's Portfolio.
-  
-   ![image](https://github.com/GouthamGuna/Portfolio-.com/actions/runs/2187469992)
 
    * It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
    
